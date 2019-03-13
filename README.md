@@ -2,7 +2,7 @@
 
 Please call me Miriel. 
 I started studing in January, 2019.
-'''
+'''c
 I'm going to record the learning process in this space. if I have a small wish, I hope this will someday be a place to direct those who are going to start machine learning.
 '''
 

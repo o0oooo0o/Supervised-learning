@@ -13,25 +13,25 @@ And I post the sites that I used to refer to the most while studying here.
 Most of them are Korean sites, but there are also foreign sites sometimes. Most of them are really good sites.
 ```
 
-## Knn
+## 1. Knn
 asdf
 
-## Linear regression
+## 2. Linear regression
 asdf
 
-## Logistic regression
+## 3. Logistic regression
 asdf
 
-## Bayes classification & Naive bayes
+## 4. Bayes classification & Naive bayes
 asdf
 
-## LDA
+## 5. LDA
 asdf
 
-## Ridge regression
+## 6. Ridge regression
 asdf
 
-## SVM
+## 7. SVM
 asdf
 
 

@@ -10,8 +10,10 @@ I'll post my codes and papers or books that I have referred to. But there may be
 
 ## Knn
 asdf
+
 ## Linear regression
 asdf
+
 ## Logistic regression
 asdf
 
@@ -23,11 +25,6 @@ asdf
 
 ## Ridge regression
 asdf
-
-
-
-
-
 
 ## SVM
 asdf

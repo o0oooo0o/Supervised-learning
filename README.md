@@ -30,9 +30,9 @@ asdf
 asdf
 '''
 public class HelloWorld{
-  public static void main(Sting[] arg){
-    System.out.pringln("Hello");
-  }
+    public static void main(Sting[] arg){
+        System.out.pringln("Hello");
+    }
 }
 '''
 

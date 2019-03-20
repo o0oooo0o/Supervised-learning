@@ -33,8 +33,6 @@ asdf
 ### 6. Ridge regression
 asdf
 
-### 7. SVM
-asdf
 
 ## [Books]
 asdf

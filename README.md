@@ -27,7 +27,7 @@ asdf
 > <https://github.com/jmschrei/pomegranate/blob/master/tutorials/B_Model_Tutorial_5_Bayes_Classifiers.ipynb> (English)
 
 ### 5. LDA
-asdf
+> <https://ratsgo.github.io/machine%20learning/2017/03/21/LDA/> (Korean)
 
 ### 6. Ridge regression
 asdf

@@ -24,7 +24,7 @@ asdf
 asdf
 
 ### 4. Bayes classification & Naive bayes
-asdf
+> <https://blog.goodaudience.com/logistic-regression-from-scratch-in-numpy-5841c09e425f> (English)
 
 ### 5. LDA
 asdf

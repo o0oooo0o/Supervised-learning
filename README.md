@@ -18,7 +18,7 @@ Most of them are Korean sites, but there are also foreign sites sometimes. Most 
 asdf
 
 ### 2. Linear regression
-asdf
+> <https://daryan.tistory.com/23> (Korean)
 
 ### 3. Logistic regression
 > <https://blog.goodaudience.com/logistic-regression-from-scratch-in-numpy-5841c09e425f> (English)

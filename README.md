@@ -28,7 +28,7 @@ asdf
 
 ### 5. LDA
 > <https://ratsgo.github.io/machine%20learning/2017/03/21/LDA/> (Korean)
-
+>
 > <https://godongyoung.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/2018/01/23/ISL-Classification_ch4.html> (Korean)
 
 ### 6. Ridge regression

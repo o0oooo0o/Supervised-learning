@@ -12,6 +12,9 @@ But there may be a lack of detail, so please understand this.
 And I post the sites that I used to refer to the most while studying here. 
 Most of them are Korean sites, but there are also foreign sites sometimes. They are really good sites.
 ```
+* **I'm dealing with unsupervised learning in my other repository.** Please refer to that, too.
+*  Here I'm just talking about the supervised learning.
+
 ## [Sites]  
 
 ### 1. Knn

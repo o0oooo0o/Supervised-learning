@@ -33,13 +33,3 @@ asdf
 
 ### 6. Ridge regression
 asdf
-
-
-## [Books]
-asdf
-
-## [papers]
-
-
-
-천천히 작성 중..
